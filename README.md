@@ -1,7 +1,13 @@
 I want to know the power of coding! ⚡
 
-[<img src="/metrics.plugin.introduction.svg">](#)
+<p align="center">  
+  <img src="/metrics.plugin.introduction.svg">
+</p>
 
-[<img src="/metrics.plugin.topics.svg">](#)
+<p align="center">  
+  <img src="/metrics.plugin.topics.svg">
+</p>
 
-[<img src="/metrics.plugin.isocalendar.svg">](#)
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg">
+</p>
