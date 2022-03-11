@@ -1,5 +1,3 @@
-I want to know the power of coding! ⚡
-
 <p align="center">  
   <img src="/metrics.plugin.introduction.svg">
 </p>
