@@ -23,12 +23,12 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
-                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
+                            <div class="label" title="">windows</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
                             <div class="label" title="MongoDB is an open source NoSQL document-oriented database.">mongodb</div>
                             <div class="label" title="PostgreSQL is an open source database system.">postgresql</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
-                            <div class="label" title="Telegram, Minecraft, Webpack, minecraft-api">and 4 more...</div>
+                            <div class="label" title="Telegram, Minecraft, webpack, minecraft-api">and 4 more...</div>
                         </div>
                     </section>
                 </div>
