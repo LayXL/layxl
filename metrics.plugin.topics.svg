@@ -21,8 +21,8 @@
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
-                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
+                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
                             <div class="label" title="">windows</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
                             <div class="label" title="MongoDB is an open source NoSQL document-oriented database.">mongodb</div>
