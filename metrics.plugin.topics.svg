@@ -26,8 +26,8 @@
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
                             <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
                             <div class="label" title="MongoDB is an open source NoSQL document-oriented database.">mongodb</div>
-                            <div class="label" title="PostgreSQL is an open source database system.">postgresql</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
+                            <div class="label" title="PostgreSQL is an open source database system.">postgresql</div>
                             <div class="label" title="Telegram, Minecraft, Webpack, minecraft-api">and 4 more...</div>
                         </div>
                     </section>
